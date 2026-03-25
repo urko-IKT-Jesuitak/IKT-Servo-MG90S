@@ -28,7 +28,7 @@ MG90S-ak hiru kable ditu:
 * **Marróia/Beltza** -> **GND**
 * **Laranja/Horia** -> **Signal** (Arduinoko pin PWM batera, adibidez 9. pina)
 
-Hemen ikus dezakezue konexioen eskema ASCII formatuan: [konexioa.md](konexioa.md).
+Hemen ikus dezakezue konexioen eskema ASCII formatuan: [Konexioa.md](Konexioa.md).
 
 ---
 
