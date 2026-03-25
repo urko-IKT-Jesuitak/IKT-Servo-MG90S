@@ -1,4 +1,5 @@
 ## 🛠️ 5. Konexio Eskema Teknikoa (SG90S)
+![WhatsApp Image 2026-03-25 at 17 47 16](https://github.com/user-attachments/assets/de50abab-48f0-4d4c-b3f4-0f0e2b79fcb4)
 
 Gogoratu kableen koloreen kodea:
 
