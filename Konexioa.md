@@ -16,3 +16,6 @@ Gogoratu kableen koloreen kodea:
    |          GND (LURRA)--|-------> (Kable Marroia)
    |          PIN 9 (PWM)--|-------> (Kable Laranja)
    |_______________________|
+
+```
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c1f762c4-7ed1-4e6f-9ad6-9572638196e6" />
