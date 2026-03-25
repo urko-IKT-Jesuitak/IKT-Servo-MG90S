@@ -12,7 +12,7 @@ Proiektu honek **SG90S mikroszerboa**. Engranajeen mekanika biltzen ditugu, gure
 2.  [**Historia Laburra**](TEORIA_ETA_AZALPENA.md#2-historia-laburra)
 3.  [**Zerboa vs DC Motorra: Aldaketa Nagusiak**](TEORIA_ETA_AZALPENA.md#3-zerboa-vs-dc-motorra-aldaketa-nagusiak)
 4.  [**Prekauzioak eta Praxi Onak**](TEORIA_ETA_AZALPENA.md#4-prekauzioak-eta-praxi-onak)
-5.  [**Hardware Konexioa**](#hardware-konexioa)
+5.  [**Hardware Konexioa**](Konexioa.md)
 6.  [**Arduino Kodearen Azalpena**](code/servo_simple.ino)
 
 ## 🔩 Beharrezko Materiala
@@ -28,7 +28,7 @@ MG90S-ak hiru kable ditu:
 * **Marróia/Beltza** -> **GND**
 * **Laranja/Horia** -> **Signal** (Arduinoko pin PWM batera, adibidez 9. pina)
 
-Hemen ikus dezakezue konexioen eskema ASCII formatuan: [hardware/eskema_ascii.txt](hardware/eskema_ascii.txt).
+Hemen ikus dezakezue konexioen eskema ASCII formatuan: [konexioa.md](konexioa.md).
 
 ---
 
